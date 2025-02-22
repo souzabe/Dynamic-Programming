@@ -26,11 +26,7 @@ def media(lista):
 #faça uma função que acrescenta o proximo numero a uma lista.
 #por exemplo cresce([7,8]) deve devolver [7,8,9]
 def cresce(lista):
-    num = 0
-
-    for i in lista:
-        num = (i+1)
-        num.append(lista)
+    lista.append(lista[-1]+1)
     
     return lista
 
@@ -65,6 +61,7 @@ def cria_naipe(naipe):
     baralho=[]
     
     for i in cartas:
+        str(i)
         baralho = i + naipes
     
     return baralho
@@ -84,7 +81,7 @@ def cria_baralho():
     naipes = ['o', 'c', 'e', 'p']
     baralho=[]
     
-    for i in cartas
+    # for i in cartas:
 
 
     return  baralho
