@@ -56,16 +56,19 @@ Dica: para juntar duas strings, faça nova='a'+'b'
 Dica: para transformar um numero n em string, faça str(n)
 '''
 def cria_naipe(naipe):
-    cartas = ["A", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
-    naipes = ['o', 'c', 'e', 'p']
+    cartas = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
     baralho=[]
     
-    for i in cartas:
-        str(i)
-        baralho = i + naipes
+    for carta_sem_naipe in cartas:
+        carta_com_naipe = carta_sem_naipe + naipe
+        baralho.append(carta_com_naipe)
     
     return baralho
 
+    cartas_ouros = cria_naipe('o')
+    cartas_espadas = cria_naipe('e')
+    cartas_copas = cria_naipe('c')
+    cartas_paus = cria_naipe('p')
 
     pass #implemente aqui a funcao
 
@@ -77,14 +80,16 @@ def cria_naipe(naipe):
 #Assim 'Jo' é um dos elementos que deve aparecer na lista
 
 def cria_baralho():
-    cartas = ["As", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
-    naipes = ['o', 'c', 'e', 'p']
+    cartas = ["A", 
+    "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
     baralho=[]
+    for naipe in 'coep':
+        for carta_sem_naipe in cartas:
+            carta_com_naipe = carta_sem_naipe + naipe
+            baralho.append(carta_com_naipe)
+    return baralho
     
-    # for i in cartas:
-
-
-    return  baralho
+    
 
 #Faça uma função que recebe uma lista, 
 #e retorna todos os valores dessa lista que estao acima da média.
