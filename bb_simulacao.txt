@@ -1,0 +1,97 @@
+Lista:      A lista completa é  [101, 102, 104, 105, 106, 107, 109]
+Lista:      Procure o numero  106
+Algoritmo:  Ok, vou procurar entre o primeiro indice,  0  e o ultimo, 6
+Algoritmo:  vou olhar a posicao  3  que tem o numero  105
+Algoritmo:  Nao achei ainda, devo procurar à direita do numero 105
+Algoritmo:  Vou procurar entre os indices 4 e 6
+Lista:      Beleza, voce esta procurando aqui: [106, 107, 109]
+Algoritmo:  vou olhar a posicao  5  que tem o numero  107
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 107
+Algoritmo:  Vou procurar entre os indices 4 e 4
+Lista:      Beleza, voce esta procurando aqui: [106]
+Algoritmo:  vou olhar a posicao  4  que tem o numero  106
+Algoritmo:  Achei !
+-------------------------------
+Lista:      A lista completa é  [101, 102, 104, 105, 106, 107, 109]
+Lista:      Procure o numero  104
+Algoritmo:  Ok, vou procurar entre o primeiro indice,  0  e o ultimo, 6
+Algoritmo:  vou olhar a posicao  3  que tem o numero  105
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 105
+Algoritmo:  Vou procurar entre os indices 0 e 2
+Lista:      Beleza, voce esta procurando aqui: [101, 102, 104]
+Algoritmo:  vou olhar a posicao  1  que tem o numero  102
+Algoritmo:  Nao achei ainda, devo procurar à direita do numero 102
+Algoritmo:  Vou procurar entre os indices 2 e 2
+Lista:      Beleza, voce esta procurando aqui: [104]
+Algoritmo:  vou olhar a posicao  2  que tem o numero  104
+Algoritmo:  Achei !
+-------------------------------
+Lista:      A lista completa é  [101, 102, 104, 105, 106, 107, 109]
+Lista:      Procure o numero  102
+Algoritmo:  Ok, vou procurar entre o primeiro indice,  0  e o ultimo, 6
+Algoritmo:  vou olhar a posicao  3  que tem o numero  105
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 105
+Algoritmo:  Vou procurar entre os indices 0 e 2
+Lista:      Beleza, voce esta procurando aqui: [101, 102, 104]
+Algoritmo:  vou olhar a posicao  1  que tem o numero  102
+Algoritmo:  Achei !
+-------------------------------
+Lista:      A lista completa é  [0, 101, 102, 103, 104, 109, 1010, 1011, 1012, 1025, 1032, 1054, 1056, 1067, 1072, 1076, 1087, 1089, 1100, 1112, 1400]
+Lista:      Procure o numero  500
+Algoritmo:  Ok, vou procurar entre o primeiro indice,  0  e o ultimo, 20
+Algoritmo:  vou olhar a posicao  10  que tem o numero  1032
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1032
+Algoritmo:  Vou procurar entre os indices 0 e 9
+Lista:      Beleza, voce esta procurando aqui: [0, 101, 102, 103, 104, 109, 1010, 1011, 1012, 1025]
+Algoritmo:  vou olhar a posicao  4  que tem o numero  104
+Algoritmo:  Nao achei ainda, devo procurar à direita do numero 104
+Algoritmo:  Vou procurar entre os indices 5 e 9
+Lista:      Beleza, voce esta procurando aqui: [109, 1010, 1011, 1012, 1025]
+Algoritmo:  vou olhar a posicao  7  que tem o numero  1011
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1011
+Algoritmo:  Vou procurar entre os indices 5 e 6
+Lista:      Beleza, voce esta procurando aqui: [109, 1010]
+Algoritmo:  vou olhar a posicao  5  que tem o numero  109
+Algoritmo:  Nao achei ainda, devo procurar à direita do numero 109
+Algoritmo:  Vou procurar entre os indices 6 e 6
+Lista:      Beleza, voce esta procurando aqui: [1010]
+Algoritmo:  vou olhar a posicao  6  que tem o numero  1010
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1010
+Algoritmo:  O numero procurado nao está na lista
+-------------------------------
+Lista:      A lista completa é  [0, 101, 102, 103, 104, 109, 1010, 1011, 1012, 1025, 1032, 1054, 1056, 1067, 1072, 1076, 1087, 1089, 1100, 1112, 1400]
+Lista:      Procure o numero  109
+Algoritmo:  Ok, vou procurar entre o primeiro indice,  0  e o ultimo, 20
+Algoritmo:  vou olhar a posicao  10  que tem o numero  1032
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1032
+Algoritmo:  Vou procurar entre os indices 0 e 9
+Lista:      Beleza, voce esta procurando aqui: [0, 101, 102, 103, 104, 109, 1010, 1011, 1012, 1025]
+Algoritmo:  vou olhar a posicao  4  que tem o numero  104
+Algoritmo:  Nao achei ainda, devo procurar à direita do numero 104
+Algoritmo:  Vou procurar entre os indices 5 e 9
+Lista:      Beleza, voce esta procurando aqui: [109, 1010, 1011, 1012, 1025]
+Algoritmo:  vou olhar a posicao  7  que tem o numero  1011
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1011
+Algoritmo:  Vou procurar entre os indices 5 e 6
+Lista:      Beleza, voce esta procurando aqui: [109, 1010]
+Algoritmo:  vou olhar a posicao  5  que tem o numero  109
+Algoritmo:  Achei !
+-------------------------------
+Lista:      A lista completa é  [0, 101, 102, 103, 104, 109, 1010, 1011, 1012, 1025, 1032, 1054, 1056, 1067, 1072, 1076, 1087, 1089, 1100, 1112, 1400]
+Lista:      Procure o numero  108
+Algoritmo:  Ok, vou procurar entre o primeiro indice,  0  e o ultimo, 20
+Algoritmo:  vou olhar a posicao  10  que tem o numero  1032
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1032
+Algoritmo:  Vou procurar entre os indices 0 e 9
+Lista:      Beleza, voce esta procurando aqui: [0, 101, 102, 103, 104, 109, 1010, 1011, 1012, 1025]
+Algoritmo:  vou olhar a posicao  4  que tem o numero  104
+Algoritmo:  Nao achei ainda, devo procurar à direita do numero 104
+Algoritmo:  Vou procurar entre os indices 5 e 9
+Lista:      Beleza, voce esta procurando aqui: [109, 1010, 1011, 1012, 1025]
+Algoritmo:  vou olhar a posicao  7  que tem o numero  1011
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 1011
+Algoritmo:  Vou procurar entre os indices 5 e 6
+Lista:      Beleza, voce esta procurando aqui: [109, 1010]
+Algoritmo:  vou olhar a posicao  5  que tem o numero  109
+Algoritmo:  Nao achei ainda, devo procurar à esquerda do numero 109
+Algoritmo:  O numero procurado nao está na lista
